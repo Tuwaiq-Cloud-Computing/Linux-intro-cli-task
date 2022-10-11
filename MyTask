@@ -1,0 +1,27 @@
+Q1: Used (Whoami) command
+output: kali.
+
+Q2: Used (Hostname) command
+output: kali.
+
+Q3: Used( ls, wc -l (fileName)) command
+output: count the word.
+
+Q4: Used (w) 
+output: kali user.
+
+Q5:Used (!the command that we choose) command
+output: run without re-write.
+
+Q6:Used (uptime) command
+output: the run time.
+
+Q7: Used(TZ="Asia/Dubai"date)
+output: time of Dubai.
+
+Q8: Used(TZ="Asia/Dubai"date 1>calander.txt)
+
+output: store the calander at the file.
+
+Q9: Used(echo'oh there's an error' 2> log.txt
+output:save the error output at the log file.
