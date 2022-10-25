@@ -1,0 +1,43 @@
+man man
+    3  man ls
+    4  /etc/paswb
+    5  man man
+    6  /etc/passwd
+    7  clear
+    8  /etc/shadow
+    9  c;ear
+   10  clear
+   11  shdow cat 
+   12  shdow cat /etc
+   13  sudo cat / etc/shadow
+   14  sudo cat /etc/shadow
+   15  whoami
+   16  hostname
+   17  w
+   18  uptime
+   19  ls-s
+   20  ls
+   21  grep
+   22  grep phoenxNAP sample
+   23  ls /etc/ | ws -1
+   24  -type f | wc -1
+   25  sudo apt install
+   26  -type f | wc -1
+   27  ^[[200~TZ="America/Los_Angeles" date
+   28  TZ="Asia/Tokyo" date~
+   29  man date
+   30  date string
+   31  cal [[ month] year]
+   32  cal [ [ mounth ] year]
+   33  calender.txt  [ [ mounth ] year]
+   34  calender.txt  [ [ mounth ]year]
+   35  sudo apt upgrade
+   36  cal [ [ mounth ] year]
+   37  cal
+   38  cal man
+   39  man date
+   40  cal-j 2018
+   41  cal-j2018
+   42  calendar -1 0
+   43  calendar.all
+   44  cal [ options ] [[[day] month] year]
